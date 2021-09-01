@@ -1,0 +1,6 @@
+POST http://localhost:3000/listings
+Content-Type: application/json
+
+{
+  "address": "Buffalo, New York"
+}
